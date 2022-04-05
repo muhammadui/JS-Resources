@@ -1,4 +1,4 @@
-# JS-Resources
+# Javascript Resources
 ### The ultimate collection of free resources to learn everything about Javascript.
 1. [JS30 - Wesbos](https://github.com/wesbos/JavaScript30)
 2. [Airbnb Javascript Guide](https://github.com/airbnb/javascript)
